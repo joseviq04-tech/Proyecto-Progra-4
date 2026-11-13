@@ -1,8 +1,3 @@
-# Plantilla de configuración del correo de notificaciones.
-# Para activar el envío: copia este archivo como correo.properties
-#   (cp correo.properties.example correo.properties)
-# y escribe tus credenciales de Mailtrap (Email Testing > My Sandbox > Integration > SMTP).
-# Si correo.properties no existe, el sistema funciona igual pero no envía correos.
 smtp.host=sandbox.smtp.mailtrap.io
 smtp.port=2525
 smtp.usuario=TU_USUARIO_DE_MAILTRAP

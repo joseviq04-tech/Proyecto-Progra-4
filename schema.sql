@@ -68,7 +68,7 @@ INSERT INTO usuarios (id, nombre, correo, password_hash, rol) VALUES
 (3, 'Cliente Maria',   'maria.cliente@gmail.com',    '8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92', 'CLIENTE'),
 (4, 'Técnico Carlos',  'carlos.tecnico@soporte.com', '8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92', 'TECNICO'),
 (5, 'Cliente Lucia',   'lucia.cliente@gmail.com',    '8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92', 'CLIENTE'),
-(6, 'Jose', 'jose.cliente@gmail.com', '8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92', 'CLIENTE');
+(6, 'Jose', 'joseviq04@proyecto.com', '8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92', 'CLIENTE');
 
 -- Tickets en distintos estados
 --   1 Cerrado | 2 Resuelto (el cliente puede aprobarlo) | 3 En proceso

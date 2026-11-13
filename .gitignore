@@ -1,0 +1,17 @@
+# Archivos compilados
+target/
+
+# Credenciales reales de correo (se sube solo correo.properties.example)
+src/main/resources/correo.properties
+
+# Copias de respaldo y temporales
+*.bak
+*.tmp
+*.log
+
+# Archivos de editores e IDE
+.idea/
+.vscode/
+nbproject/
+*.iml
+.DS_Store

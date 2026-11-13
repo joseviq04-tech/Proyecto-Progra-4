@@ -15,3 +15,10 @@ src/main/resources/correo.properties
 nbproject/
 *.iml
 .DS_Store
+
+# Configuración local y credenciales
+src/main/resources/correo.properties
+src/main/resources/db.properties
+
+# Archivos generados
+target/

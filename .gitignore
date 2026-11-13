@@ -1,8 +1,9 @@
-# Archivos compilados
+# Compilados
 target/
 
-# Credenciales reales de correo (se sube solo correo.properties.example)
+# Credenciales y configuración local
 src/main/resources/correo.properties
+src/main/resources/db.properties
 
 # Copias de respaldo y temporales
 *.bak
@@ -15,10 +16,3 @@ src/main/resources/correo.properties
 nbproject/
 *.iml
 .DS_Store
-
-# Configuración local y credenciales
-src/main/resources/correo.properties
-src/main/resources/db.properties
-
-# Archivos generados
-target/
